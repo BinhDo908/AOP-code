@@ -1,0 +1,28 @@
+Help:
+1. "Browse" Button: 
+a. Browse wanted apps that you want to import.
+b. After that: Browse the icon that you want the imported app to appear.
+
+2. "Delete App" Button:
+Once clicked this button, the system will turn into "Deleting Mode". Press the "Middle Click" of your mouse to delete apps.
+
+3. "Running All Apps" Button:
+Once clicked this button, all displayed apps will run.
+
+4. "Running Apps" Button:
+Once clicked this button, a window that display all running apps will appear.
+Function:
+- Left click: Click to run.
+- Right click: Delete running apps.
+
+5. "To-do list" Button:
+Once clicked this button, a window shows up.
+Function:
+- Type in the tasks that you want to remember.
+- "Add task" Button: Add the tasks you typed in and save it.
+- "Delete" Button: Delete the tasks that you want to remove.
+
+6. "Note" Button: 
+Once clicked this button, a window will show up.
+Function: 
+- Take notes
